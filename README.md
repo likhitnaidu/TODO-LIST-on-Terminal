@@ -21,6 +21,7 @@ This setup gives you:
 * 🚀 Auto-display tasks on terminal launch
 
 ---
+<img src="preview.png">
 
 ## 📦 Requirements
 
