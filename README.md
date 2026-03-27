@@ -230,11 +230,6 @@ source ~/.zshrc
 
 ---
 
-## 🧾 License
-
-MIT — use it, modify it, break it.
-
----
 
 ## 🚫 Reality Check
 
